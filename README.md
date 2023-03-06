@@ -1,5 +1,5 @@
 # sai_coords
-DEV Tools for copying coordinates using Ox Library
+Simple Dev Tools for copying essential coordinates or heading format using Ox Library
 
 To use the type /c
 
