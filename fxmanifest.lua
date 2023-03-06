@@ -10,13 +10,11 @@ description 	'SFX Customs Originals | Discord: https://discord.gg/5ZrJBrKwpG'
 shared_scripts{
     '@ox_lib/init.lua',
     '@es_extended/imports.lua',
-    '@es_extended/locale.lua',
 
     'config.lua',
 }
 
 server_scripts {
-    '@oxmysql/lib/MySQL.lua',
     'server/main.lua'
 }
 
